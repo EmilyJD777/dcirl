@@ -1,5 +1,5 @@
 # -- INTERFACE TABS -- #
- interface_img_path =
+interface_img_path = '\\dcirl\\imgs\\'
 
 # - Backstory - #
 
